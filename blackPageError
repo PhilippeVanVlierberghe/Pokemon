@@ -1,0 +1,2 @@
+De eerste keer moet je de homepage base ref zetten: 
+ng build --prod --base-href https://philippevanvlierberghe.github.io/pokemon/
